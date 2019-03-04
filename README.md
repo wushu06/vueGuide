@@ -1,7 +1,7 @@
 # vueGuide
 All the nessecary functions you need to lunch a vue app
 
-#content:
+# content:
  - Installation / Setting up sass 
  - Login / register
  - CRUD
